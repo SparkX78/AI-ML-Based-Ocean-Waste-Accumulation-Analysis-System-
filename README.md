@@ -6,11 +6,14 @@
 ![AI](https://img.shields.io/badge/AI-Decision%20Logic-yellow)
 
 A data-driven system that analyzes ocean environmental data to identify regions where waste (especially plastic) is likely to accumulate and helps prioritize cleanup efforts using machine learning and AI-based decision logic.
-https://images.openai.com/static-rsc-3/IfG9Yqaiu9_4SkCVaP7Vfjq0mE-A6fzp_b1pJEkJ2sqFunr72GGRL494nEn5bxbfJKBnQwkHLBl_0OFITLA2QE_45b9rRL2oa_wWrHmyucw?purpose=fullsize 
+<img width="738" height="494" alt="image" src="https://github.com/user-attachments/assets/1e50195f-aeca-4647-b84c-f83a9515bdf7" />
 
-https://svs.gsfc.nasa.gov/vis/a000000/a004100/a004174/ECCO2_and_drifters_originalTiming.02500_print.jpg
 
-https://ars.els-cdn.com/content/image/1-s2.0-S0025326X2500298X-ga1.jpg
+<img width="1283" height="712" alt="image" src="https://github.com/user-attachments/assets/70eab1cb-afd5-432c-b6be-73850efcb3ba" />
+
+
+<img width="1342" height="712" alt="image" src="https://github.com/user-attachments/assets/8677fabf-fef1-444d-8e33-def72eb258fe" />
+
 
 What these visuals represent
 
